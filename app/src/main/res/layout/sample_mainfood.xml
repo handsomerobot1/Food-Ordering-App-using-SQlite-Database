@@ -39,7 +39,7 @@
 
                 <!-- Name -->
                 <TextView
-                    android:id="@+id/tvName"
+                    android:id="@+id/Name"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="Burger"
@@ -49,7 +49,7 @@
 
                 <!-- Price -->
                 <TextView
-                    android:id="@+id/tvPrice"
+                    android:id="@+id/Price"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="$5.99"
@@ -60,7 +60,7 @@
 
                 <!-- Description -->
                 <TextView
-                    android:id="@+id/tvDescription"
+                    android:id="@+id/description"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="Delicious beef burger with cheese and fresh veggies."
